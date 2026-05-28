@@ -1,0 +1,42 @@
+body{
+  font-size: 25px;
+}
+
+div{
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.card{
+  font-weight: bold;
+  display: block;
+  width: 500px;
+  background-color: rgb(186, 227, 243);
+  margin: 20px
+}
+
+.content{
+  display: block;
+  width: 500px;
+  background-color: rgb(186, 227, 243);
+  margin: 20px
+}
+
+.button{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 500px;
+  background-color: rgb(186, 227, 243);
+  margin: 20px;
+}
+
+span{
+  display:block;
+  background-color: white;
+  width:200px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

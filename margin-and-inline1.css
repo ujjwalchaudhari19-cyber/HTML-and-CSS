@@ -1,0 +1,26 @@
+.div1{
+  background-color: pink;
+  Display: block;
+  border: solid;
+  border-color: blue;
+  padding: 30px;
+}
+
+.div2{
+  display: block;
+  border: solid;
+  border-color: purple;
+  background-color: rgb(141, 191, 197);
+  width: 600px;
+}
+
+.div3{
+  display: block;
+  float: right;
+  width: 200px;
+  padding: 30px;
+  border: solid;
+  border-color: brown;
+  background-color: rgb(245, 203, 164);
+  margin: 50px;
+}
