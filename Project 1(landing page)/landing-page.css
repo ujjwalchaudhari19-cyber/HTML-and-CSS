@@ -1,0 +1,139 @@
+body{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.text{
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+}
+
+.about{
+  color: #e5e7eb;
+  font-size: 18px;  
+}
+
+.hero{
+  background-color: #1F2937;
+  height: 550px;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-links{
+  margin: 5px;
+}
+
+.bedsheet-logo{
+  width: 100px;
+  border-radius: 50%;
+  height: 100px;
+  justify-self: flex-start;
+  margin: 8px;
+}
+
+.bedsheet{
+  width: 650px;
+  height: 300px;
+  margin-left: 30px;
+}
+
+a{
+  text-decoration: none;
+  padding: 4px;
+  color: #e5e7eb;
+}
+
+.information{
+  display: flex;
+  width: 50;
+  padding: 20px;
+}
+
+.sub-text{
+  width: 500px;
+}
+
+.signup{
+  background-color: #3882f6;
+  padding: 7px 20px;
+  color: #e5e7eb;
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+  border-radius: 9px;
+}
+
+.all-cards{
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.heading{
+  text-align: center;
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 900;  
+}
+
+.card{
+  width: 300px;
+  height: 350px;
+
+}
+
+.features{
+  height: 200px;
+  width: 200px;
+}
+
+.quote{
+  background-color: #e5e7eb;
+  padding:10px;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.author{
+  text-align: end;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.call-its-action-time{
+  background-color: #3882f6;
+  padding: 7px;
+  color: #e5e7eb;
+  gap: 12px;
+  margin-bottom: 30px;
+}
+
+.call{
+  color: #f9faf8;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.signup2{
+  background-color: #3882f6;
+  border: 2px solid #f9faf8;
+  color: #f9faf8;
+  border-radius: 10px;
+  padding: 8px 24px;
+  font-weight: 700;
+}
+
+.footer{
+  background-color: #1F2937;
+  color: #e5e7eb;
+  text-align: center;
+  padding: 30px;
+  font-size: 20px;
+}
+
+.random-info{
+  margin-top: 8px;
+}
